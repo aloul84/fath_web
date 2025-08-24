@@ -19,7 +19,7 @@
 
                     <span
                         class="font-['Fredoka_One'] text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-pink-500">
-                        عالم فَذ السحري
+                        عالم فَذ 
                     </span>
                 </router-link>
 
