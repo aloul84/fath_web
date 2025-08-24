@@ -38,7 +38,7 @@
         <div class="info-card team-card">
           <div class="info-icon">👥</div>
           <div class="info-content">
-            <span class="info-label">الاصل</span>
+            <span class="info-label"> الاصل </span>
             <span class="info-value">{{ football.origin || 'غير محدد' }}</span>
           </div>
         </div>
@@ -46,7 +46,7 @@
         <div class="info-card position-card">
           <div class="info-icon">🎯</div>
           <div class="info-content">
-            <span class="info-label">ملاحظات</span>
+            <span class="info-label"> ملاحظات </span>
             <span class="info-value">{{ football.notes || 'غير محدد' }}</span>
           </div>
         </div>
